@@ -234,11 +234,39 @@ nav a:hover {
 }
 
 .item19 {
-    background-image: url(../images/skolgt-removebg-preview.png);
+    background-image: url(../images/skol-gt-lata-removebg-preview.png);
 }
 
 .item20 {
     background-image: url(../images/eisenbahn-removebg-preview.png);
+}
+
+.item21 {
+    background-image: url(../images/skol600-removebg-preview.png);
+}
+
+.item22 {
+    background-image: url(../images/bramha600-removebg-preview.png);
+}
+
+.item23 {
+    background-image: url(../images/duplo600-removebg-preview.png);
+}
+
+.item24 {
+    background-image: url(../images/bud550-removebg-preview.png);
+}
+
+.item25 {
+    background-image: url(../images/heiniken600-removebg-preview.png);
+}
+
+.item26 {
+    background-image: url(../images/sub600-removebg-preview.png);
+}
+
+.item27 {
+    background-image: url(../images/original600-removebg-preview.png);
 }
 
 #about {
@@ -330,7 +358,7 @@ footer.page-footer {
 }
 
 .youtube {
-    background-image: url(../icons/youtube.svg);
+    background-image: url(../icons/whatsapp.svg);
 }
 
 footer .material-icons {

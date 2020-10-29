@@ -36,7 +36,7 @@ const Cardapio = ()=>{
 			<div>
 				<h5>Coração de frango</h5>
 				<p>Espetinho de coração de frango</p>
-				 <div className="chip">R$ 5,00</div>
+				 <div className="chip">R$ 4,00</div>
 			</div>
 		</div>
         <div className="col s12 m6 l6">
@@ -45,7 +45,7 @@ const Cardapio = ()=>{
 			<div>
 				<h5>Espetinho de queijo</h5>
 				<p>Espetinho de queijo coalho</p>
-				 <div className="chip">R$ 4,00</div>
+				 <div className="chip">R$ 5,00</div>
 			</div>
 		</div>
         <div className="col s12 m6 l6">
@@ -76,6 +76,7 @@ const Cardapio = ()=>{
 			</div>
 		</div>
 	</div>
+	
 		<div className="col s12 m6 l6">
 			<h3 className="center">Bebidas</h3>
 			<div className="row">
@@ -183,8 +184,8 @@ const Cardapio = ()=>{
 					</div>
 					<div>
 						<h5>Skol Gt</h5>
-						<p>Gim tonica Skol 330 ml</p>
-						 <div className="chip">R$ 12,00</div>
+						<p>Gim tonica Skol lata</p>
+						 <div className="chip">R$ 8,00</div>
 					</div>
 				</div>
 				<div className="col s12 m6 l6">
@@ -199,6 +200,75 @@ const Cardapio = ()=>{
 			</div>
 
 	</div>	
+
+	<div className="col s12 m6 l6">
+		<h3 className="center">Cervejas 600 ml</h3>
+		
+		<div className="col s12 m6 l6">
+			<div className="menu-item item21">
+			</div>
+			<div>
+				<h5>Skol 600 ml</h5>
+				<p>Cerveja Skol 600 ml</p>
+				 <div className="chip">R$ 7,50</div>
+			</div>
+		</div>
+		<div className="col s12 m6 l6">
+			<div className="menu-item item22">
+			</div>
+			<div>
+				<h5>Bramha 600 ml</h5>
+				<p>Cerveja Bramha 600 ml</p>
+				 <div className="chip">R$ 7,50</div>
+			</div>
+		</div>
+		<div className="col s12 m6 l6">
+			<div className="menu-item item23">
+			</div>
+			<div>
+				<h5>Duplo Malte 600</h5>
+				<p>Bramha duplo malte 600 ml</p>
+				 <div className="chip">R$ 7,50</div>
+			</div>
+		</div>
+		<div className="col s12 m6 l6">
+			<div className="menu-item item24">
+			</div>
+			<div>
+				<h5>Budwiser 550 ml</h5>
+				<p>Cerveja Budwiser 550 ml</p>
+				 <div className="chip">R$ 7,50</div>
+			</div>
+		</div>
+        <div className="col s12 m6 l6">
+			<div className="menu-item item25">
+			</div>
+			<div>
+				<h5>Heineken 600 ml</h5>
+				<p>Cerveja Heiniken 600 ml</p>
+				 <div className="chip">R$ 9,00</div>
+			</div>
+		</div>
+        <div className="col s12 m6 l6">
+			<div className="menu-item item26">
+			</div>
+			<div>
+				<h5>Ant. sub-zero 600</h5>
+				<p>Antartica Sub zero 600 ml</p>
+				 <div className="chip">R$ 6,50</div>
+			</div>
+		</div>
+        <div className="col s12 m6 l6">
+			<div className="menu-item item27">
+			</div>
+			<div>
+				<h5>Original 600 ml</h5>
+				<p>Antartica original 600 ml</p>
+				 <div className="chip">R$ 8,00</div>
+			</div>
+		</div>
+      
+	</div>
 </div>
 );
     
