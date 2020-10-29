@@ -67,7 +67,7 @@ const Cardapio = ()=>{
 			</div>
 		</div>
         <div className="col s12 m6 l6">
-			<div className="menu-item item5">
+			<div className="menu-item item8">
 			</div>
 			<div>
 				<h5>Espetinho de Kafta</h5>
@@ -85,8 +85,7 @@ const Cardapio = ()=>{
 					</div>
 					<div>
 						<h5>Skol 300 ml</h5>
-						<p>Hambúrguer de picanha, queijo prato, maionese 
-						da casa, bacon, alface e tomate.</p>
+						<p>Cerveja skol 300 ml</p>
 						 <div className="chip">R$ 3,00</div>
 					</div>
 				</div>
