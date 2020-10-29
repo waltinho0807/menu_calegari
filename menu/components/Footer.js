@@ -7,9 +7,9 @@ const Footer = () => {
 	<div className="container">
 		<div className="row valign-wrapper">
 			<div className="col s12 m4 l4">
-				<p className="white-text"><i className="material-icons">location_on</i>Av. Dr. Silas Munguba, 1200. Itaperi</p>	
-				<p className="white-text"><i className="material-icons">smartphone</i>(85) 99213-4031</p>		
-				<p className="white-text"><i className="material-icons">mail</i>atendimento@dominio.com</p>
+				<p className="white-text"><i className="material-icons">Endereço</i>Rua Antonio Duveza, 516</p>	
+				<p className="white-text"><i className="material-icons">Fone</i>(18) 3282-3135</p>		
+				<p className="white-text"><i className="material-icons">e-mail</i>atendimento@hotmail.com</p>
 			</div>
 			<div className="col s12 m4 l4 hide-on-med-and-down">
 				<div className="logo"></div>
@@ -30,8 +30,8 @@ const Footer = () => {
 	</div>
 	<div class="footer-copyright black">
 		<div class="container">
-			© 2016 Copyright Lanchonete
-			<a class="grey-text text-lighten-4 right" target="_blank" href="https://sisout.com">sisout</a>
+			© 2016 Copyright Waltinho Calegari
+			<a class="grey-text text-lighten-4 right" target="_blank" href="#">calegari</a>
 		</div>
 	</div>
 </footer>

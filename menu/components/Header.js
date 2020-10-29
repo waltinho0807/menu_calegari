@@ -1,8 +1,8 @@
 const Header = () => {
     return (
-        <div className="navbar-fixed">
+        <div className="navbar-fixed grey lighten-2" >
             <nav className="">
-                <div className="topo-fixo">
+                <div className="topo-fixo grey lighten-2">
                     <a href="index.html#" className="brand-logo">
                         <div className="logo logo-small"></div>
                     </a>
@@ -10,11 +10,11 @@ const Header = () => {
                 </div>
 
                 <ul className="right hide-on-med-and-down brand-logo">
-                    <li><a className="scrollSuave" href="index.html#products">Produtos</a></li>
-                    <li><a className="scrollSuave" href="cardapio.html#cardapio">Cardápio</a></li>
-                    <li><a className="scrollSuave" href="index.html#about">Quem somos</a></li>
-                    <li><a className="scrollSuave" href="index.html#contact">Contato</a></li>
-                    <li><a className="scrollSuave" href="trabalheconosco.html">Trabalhe conosco</a></li>
+                    <li><a className="scrollSuave" href="#">Produtos</a></li>
+                    <li><a className="scrollSuave" href="#">Cardápio</a></li>
+                    <li><a className="scrollSuave" href="#">Quem somos</a></li>
+                    <li><a className="scrollSuave" href="#">Contato</a></li>
+                    <li><a className="scrollSuave" href="#">Trabalhe conosco</a></li>
                 </ul>
 
                 <ul className="side-nav" id="mobile-demo">
